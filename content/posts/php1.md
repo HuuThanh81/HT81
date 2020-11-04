@@ -25,7 +25,7 @@ Logic control PHP.
 
 ##### Yêu cầu chức năng:  
 
-![giả lập máy tính](/themes/LoveIt/static/lib/img/calculator/Calculator-default.png)
+![giả lập máy tính](https://firebasestorage.googleapis.com/v0/b/blog-7d3a3.appspot.com/o/Calculator-default.png?alt=media&token=5c7e5080-944b-4a1e-9d20-3a047c430670)
 
 - Máy tính phải thực hiện được tối thiểu các phép toán: +, -, *, /, %.  
 - Nếu người dùng nhập đúng dữ liệu (nhập số và đúng phép toán), bấm vào nút “Xem  kết quả” thì xuất ra kết quả, đồng thời giữ lại số và phép toán trên các ô nhập liệu.  
@@ -39,13 +39,13 @@ không thực hiện được, và cho phép người dùng nhập lại.
 >Preview
 
 
-![giả lập máy tính](/themes/LoveIt/static/lib/img/calculator/final.png)
+![giả lập máy tính](https://firebasestorage.googleapis.com/v0/b/blog-7d3a3.appspot.com/o/final.png?alt=media&token=c3785e0e-3748-4823-bbb4-4a700aaf3a99)
 
 
 >khi nhập sai thì báo lỗi
 
 
-![giả lập máy tính](/themes/LoveIt/static/lib/img/calculator/bug.png)
+![giả lập máy tính](https://firebasestorage.googleapis.com/v0/b/blog-7d3a3.appspot.com/o/bug.png?alt=media&token=b7e5f1b0-742b-4e6f-98f9-d0cc5357e438)
 >demo
 
 
@@ -189,14 +189,14 @@ body{
 >Preview
 
 
-![giả lập máy tính](/themes/LoveIt/static/lib/img/calculator/Cal2.png)
+![giả lập máy tính](https://firebasestorage.googleapis.com/v0/b/blog-7d3a3.appspot.com/o/Cal2.png?alt=media&token=5e6600c2-40f8-480e-b29f-1035ee46a0aa)
 
 >Demo
 
 
 {{< iframe src="https://calculator.huuthanh81.repl.co/?lite=true" >}}
 
->index.html
+>index.php
 
 ```html
 <!DOCTYPE html>
