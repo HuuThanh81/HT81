@@ -17,7 +17,7 @@ categories: ["PHP Programming - Basics"]
 lightgallery: true
 ---
 
-Hiểu về DomainName,.
+Logic control PHP.
 
 <!--more-->
 
@@ -25,7 +25,7 @@ Hiểu về DomainName,.
 
 ##### Yêu cầu chức năng:  
 
-![giả lập máy tính](/static/calculator/Calculator-default.png)
+![giả lập máy tính](/themes/LoveIt/static/lib/img/calculator/Calculator-default.png)
 
 - Máy tính phải thực hiện được tối thiểu các phép toán: +, -, *, /, %.  
 - Nếu người dùng nhập đúng dữ liệu (nhập số và đúng phép toán), bấm vào nút “Xem  kết quả” thì xuất ra kết quả, đồng thời giữ lại số và phép toán trên các ô nhập liệu.  
@@ -39,15 +39,17 @@ không thực hiện được, và cho phép người dùng nhập lại.
 >Preview
 
 
-![giả lập máy tính](/static/calculator/final.png)
+![giả lập máy tính](/themes/LoveIt/static/lib/img/calculator/final.png)
 
 
 >khi nhập sai thì báo lỗi
 
 
-![giả lập máy tính](/static/calculator/bug.png)
+![giả lập máy tính](/themes/LoveIt/static/lib/img/calculator/bug.png)
+>demo
 
 
+{{< iframe src="https://CalculatorPHP.huuthanh81.repl.co/?lite=true" >}}
 >index.php
 ```html 
 <!DOCTYPE html>
@@ -187,7 +189,12 @@ body{
 >Preview
 
 
-![giả lập máy tính](/static/calculator/Cal2.png)
+![giả lập máy tính](/themes/LoveIt/static/lib/img/calculator/Cal2.png)
+
+>Demo
+
+
+{{< iframe src="https://calculator.huuthanh81.repl.co/?lite=true" >}}
 
 >index.html
 
