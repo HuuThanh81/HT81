@@ -1,6 +1,6 @@
 ---
 weight: 4
-title: "Lab04: Hiểu về web server"
+title: "Lab 04: Hiểu về web server"
 date: 2020-09-28T21:57:40+08:00
 lastmod: 2020-01-01T16:45:40+08:00
 draft: false
@@ -11,7 +11,7 @@ resources:
 - name: "featured-image"
   src: "featured-image.png"
 
-tags: ["Lab03", "DNS", "Đăng ký tên miền"]
+tags: ["Lab04", "DNS", "Đăng ký tên miền"]
 categories: ["Domain name, Hosting, Git & Docker"]
 
 lightgallery: true

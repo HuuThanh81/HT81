@@ -1,6 +1,6 @@
 ---
 weight: 4
-title: "Lab01: Hiểu về DNS"
+title: "Lab 01: Hiểu về DNS"
 date: 2020-09-25T21:57:40+08:00
 lastmod: 2020-01-01T16:45:40+08:00
 draft: false

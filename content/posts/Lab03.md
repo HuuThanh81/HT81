@@ -1,6 +1,6 @@
 ---
 weight: 4
-title: "Lab03: Đăng ký tên miền có phí"
+title: "Lab 03: Đăng ký tên miền có phí"
 date: 2020-09-27T21:57:40+08:00
 lastmod: 2020-01-01T16:45:40+08:00
 draft: false
