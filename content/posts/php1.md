@@ -196,7 +196,7 @@ body{
 
 {{< iframe src="https://calculator.huuthanh81.repl.co/?lite=true" >}}
 
->index.php
+>index.html
 
 ```html
 <!DOCTYPE html>
@@ -375,10 +375,9 @@ html {
 ```
 
 
-
 ### 2. Viết chương trình “cho biết bạn thuộc chòm sao nào, dựa vào ngày/tháng sinh”. Với giao  diện như sau:
 
-![chòm sao](../../images/zodiac/ex.png)
+![chòm sao](https://firebasestorage.googleapis.com/v0/b/blog-7d3a3.appspot.com/o/ex.png?alt=media&token=9845c3bd-7dda-4033-9665-f9c9f14ad53d)
 ##### Yêu cầu chức năng:  
 - Cho người dùng nhập ngày + tháng sinh  
 - Nếu ngày, tháng sinh hợp lệ, khi người dùng bấm vào nút “Lấy chòm sao!” thì hiển  thị: hình, cung hoàng đạo (tên chòm sao) và ngày tháng của cung hoàng đạo đó.   Nếu người dùng nhập dữ liệu không hợp lệ thì thông báo “Dữ liệu không hợp lệ”.   Nếu người dùng bấm vào nút “Xóa” thì xóa hết dữ liệu trên giao diện.  Danh sách các chòm sao:  
