@@ -21,11 +21,13 @@ Tìm hiểu tên miền và cách thức đăng ký tên miền.
 
 <!--more-->
 
-### 1. Tại sao lại phải đăng ký tên miền?
+### 1. Tại sao lại phải đăng ký tên miền ?
+
+Một số lý do:
 
 – Xây dựng và bảo vệ thương hiệu
 
-– Xây dựng website để quản lý, dạy học, làm việc, làm thương mại, quảng cáo, quảng bá thương hiệu
+– Xây dựng website để quản lý, dạy học, làm việc, làm thương mại, quảng cáo, quảng bá thương hiệu.
 
 ### 2. Đăng ký 3 tên miền miễn phí trên 3 hệ thống khác nhau?
 
