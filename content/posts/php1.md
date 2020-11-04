@@ -1,7 +1,7 @@
 ---
 weight: 4
 title: "Lab 01: Logic control"
-date: 2020-09-25T21:57:40+08:00
+date: 2020-10-02T21:57:40+08:00
 lastmod: 2020-01-01T16:45:40+08:00
 draft: false
 author: "Hữu Thành"
@@ -25,7 +25,7 @@ Hiểu về DomainName,.
 
 ##### Yêu cầu chức năng:  
 
-![giả lập máy tính](./static/calculator/Calculator-default.png)
+![giả lập máy tính](/static/calculator/Calculator-default.png)
 
 - Máy tính phải thực hiện được tối thiểu các phép toán: +, -, *, /, %.  
 - Nếu người dùng nhập đúng dữ liệu (nhập số và đúng phép toán), bấm vào nút “Xem  kết quả” thì xuất ra kết quả, đồng thời giữ lại số và phép toán trên các ô nhập liệu.  
@@ -39,13 +39,13 @@ không thực hiện được, và cho phép người dùng nhập lại.
 >Preview
 
 
-![giả lập máy tính](../../images/calculator/final.png)
+![giả lập máy tính](/static/calculator/final.png)
 
 
 >khi nhập sai thì báo lỗi
 
 
-![giả lập máy tính](../../images/calculator/bug.png)
+![giả lập máy tính](/static/calculator/bug.png)
 
 
 >index.php
@@ -187,7 +187,7 @@ body{
 >Preview
 
 
-![giả lập máy tính](../../images/calculator/Cal2.png)
+![giả lập máy tính](/static/calculator/Cal2.png)
 
 >index.html
 
