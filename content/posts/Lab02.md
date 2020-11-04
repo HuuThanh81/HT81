@@ -1,8 +1,8 @@
 ---
 weight: 4
 title: "Lab02: Đăng ký tên miền miễn phí"
-date: 2020-09-26 T21:57:40+08:00
-lastmod: 2020-01-01 T16:45:40+08:00
+date: 2020-09-26T21:57:40+08:00
+lastmod: 2020-01-01T16:45:40+08:00
 draft: false
 author: "Hữu Thành"
 authorLink: "https://www.facebook.com/OGCN01"
