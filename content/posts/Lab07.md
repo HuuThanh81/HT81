@@ -1,6 +1,6 @@
 ---
 weight: 4
-title: "Lab 06: Tìm hiểu về các loại hosting"
+title: "Lab 07: Tìm hiểu về các loại hosting"
 date: 2020-10-01T21:57:40+08:00
 lastmod: 2020-01-01T16:45:40+08:00
 draft: false
@@ -11,7 +11,7 @@ resources:
 - name: "featured-image"
   src: "featured-image.png"
 
-tags: ["Lab06", "DNS", "Hosting"]
+tags: ["Lab07", "DNS", "Hosting"]
 categories: ["Domain name, Hosting, Git & Docker"]
 
 lightgallery: true
