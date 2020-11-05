@@ -46,7 +46,7 @@ không thực hiện được, và cho phép người dùng nhập lại.
 
 
 ![giả lập máy tính](https://firebasestorage.googleapis.com/v0/b/blog-7d3a3.appspot.com/o/bug.png?alt=media&token=b7e5f1b0-742b-4e6f-98f9-d0cc5357e438)
->demo
+>APP source: https://repl.it/@HuuThanh81/CalculatorPHP#index.php
 
 
 {{< iframe src="https://CalculatorPHP.huuthanh81.repl.co/?lite=true" >}}
@@ -191,7 +191,7 @@ body{
 
 ![giả lập máy tính](https://firebasestorage.googleapis.com/v0/b/blog-7d3a3.appspot.com/o/Cal2.png?alt=media&token=5e6600c2-40f8-480e-b29f-1035ee46a0aa)
 
->Demo
+>APP source: https://repl.it/@HuuThanh81/calculator#index.html
 
 
 {{< iframe src="https://calculator.huuthanh81.repl.co/?lite=true" >}}
@@ -393,6 +393,12 @@ html {
 - Chòm sao CAPRICORNUS – MA KẾT sinh từ ngày 22/12 – 20/1  
 - Chòm sao AQUARIUS – BẢO BÌNH sinh từ ngày 21/1 – 19/2  
 - Chòm sao PISCES – SONG NGƯ sinh từ ngày 20/2 – 20/3  
+
+
+>APP source: https://repl.it/@HuuThanh81/Zodiac-sign#index.php
+
+
+{{< iframe src="hhttps://zodiac-sign.huuthanh81.repl.co//?lite=true" >}}
 
 
 >index.php
