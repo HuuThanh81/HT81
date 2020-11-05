@@ -398,7 +398,7 @@ html {
 >APP source: https://repl.it/@HuuThanh81/Zodiac-sign#index.php
 
 
-{{< iframe src="hhttps://zodiac-sign.huuthanh81.repl.co/?lite=true" >}}
+{{< iframe src="https://zodiac-sign.huuthanh81.repl.co/?lite=true" >}}
 
 
 >index.php
