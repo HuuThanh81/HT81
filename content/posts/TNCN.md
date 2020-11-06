@@ -59,6 +59,28 @@ Một số thuật ngữ sử dụng trong ngành công nghệ thông tin.
 | imployer |   | người chủ |
 | imploy |   |  cho thuê |
 | quantity |   | lượng |
-|  |   |  |
-|  |   |  |
-|  |   |  |
+| Interactivity |   | tương tác |
+| Complex |   | Sự phức tạp |
+| Interested |   | liên quan |
+| Presence| | Sự hiện diện|
+| Project | | Dự án |
+| Consider | | cân nhắc, xem xét, quan tâm |
+| ecosystem | | hệ sinh thái|
+| approach| | tiếp cận|
+| result| | kết quả|
+| Comfortable| | thoải mái|
+| check out | | thanh toán|
+| introduces| | mở đầu|
+| assumes| | giả định|
+| familiarity| | thân thuộc, quen thuộc|
+| knowledge| | hiểu biết|
+| versions || phiên bản|
+| release| | giải phóng|
+| continuously| | sự liên tục|
+| suggestions| | gợi ý |
+| improvement| |cải tiến |
+| independently| | độc lập |
+| | | |
+| | | |
+| | | |
+| | | |
