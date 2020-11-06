@@ -31,8 +31,13 @@ Một số lý do:
 
 ### 2. Đăng ký 3 tên miền miễn phí trên 3 hệ thống khác nhau?
 
+- netlify.app 
+![netlify](https://firebasestorage.googleapis.com/v0/b/blog-7d3a3.appspot.com/o/domain-netlify.png?alt=media&token=f9340952-d072-49da-87de-91977e541480)
+
+
 – pages.github.com
+![github](https://firebasestorage.googleapis.com/v0/b/blog-7d3a3.appspot.com/o/domain-github.png?alt=media&token=477e9761-b002-418b-af79-7d3c107ec62c)
+
 
 – 000webhostapp.com
-
-– blogspot.com
+![000webhost](https://firebasestorage.googleapis.com/v0/b/blog-7d3a3.appspot.com/o/000webhost.png?alt=media&token=b0d7a444-84d0-4fd5-bd1a-120a6b657855)
