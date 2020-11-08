@@ -14,8 +14,13 @@ math:
 ![icon](https://media.tenor.com/images/b3619db4d9786df3949f8d8cfba88bc9/tenor.gif)
 
 
-My name is Huu Thanh and I'm the author of this blog. I'm studying information technology at Dalat University.
+HELLO EVERYBODY, I AM
+## HUỲNH LÊ 
+## HỮU THÀNH
 
+JUNIOR FRONT-END, (ReactJS-JS)
+
+I’m the author of this blog and studying information technology at Dalat University.
 
 ### Contact me.
 Gmail: <huynhlehuuthanh@gmail.com>
