@@ -15,8 +15,8 @@ math:
 
 
 HELLO EVERYBODY, I AM
-## HUỲNH LÊ 
-## HỮU THÀNH
+# HUỲNH LÊ 
+# HỮU THÀNH
 
 JUNIOR FRONT-END, (ReactJS-JS)
 
@@ -42,7 +42,9 @@ Gmail: <huynhlehuuthanh@gmail.com>
 
 English README | [简体中文说明](https://github.com/dillonzq/LoveIt/blob/master/README.zh-cn.md)
 
-> **LoveIt** is a **clean**, **elegant** but **advanced** blog theme for [Hugo](https://gohugo.io/).
+>
+
+ **LoveIt** is a **clean**, **elegant** but **advanced** blog theme for [Hugo](https://gohugo.io/).
 
 It is based on the original [LeaveIt Theme](https://github.com/liuzc/LeaveIt) and [KeepIt Theme](https://github.com/Fastbyte01/KeepIt).
 
