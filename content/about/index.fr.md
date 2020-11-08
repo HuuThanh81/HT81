@@ -14,7 +14,7 @@ math:
 ![icon](https://media.tenor.com/images/b3619db4d9786df3949f8d8cfba88bc9/tenor.gif)
 
 
-My name is Huu Thanh and I'm the author of this blog. I'm studying technology information at Dalat University.
+My name is Huu Thanh and I'm the author of this blog. I'm studying information technology at Dalat University.
 
 
 ### Contact me.
