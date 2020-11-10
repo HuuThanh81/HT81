@@ -16,8 +16,7 @@ categories: ["Hệ quản trị CSDL"]
 
 lightgallery: true
 ---
-
-Hiểu về DomainName,.
+Tìm hiểu và cài đặt SQLServer trên máy tính cục bộ.
 
 <!--more-->
 
