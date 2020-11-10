@@ -1,7 +1,7 @@
 ---
 weight: 4
 title: "Lab 1. Tải và cài đặt SQL server trên máy cục bộ"
-date: 2020-09-25T21:57:40+08:00
+date: 2020-11-5T21:57:40+08:00
 lastmod: 2020-01-01T16:45:40+08:00
 draft: false
 author: "Hữu Thành"
@@ -12,7 +12,7 @@ resources:
   src: "featured-image.png"
 
 tags: ["Lab01", "HQTCSDL", "SQLServer"]
-categories: ["HQTCSDL, SQLServer"]
+categories: ["Hệ quản trị CSDL"]
 
 lightgallery: true
 ---
