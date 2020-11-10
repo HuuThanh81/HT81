@@ -16,7 +16,7 @@ categories: ["Hệ quản trị CSDL"]
 
 lightgallery: true
 ---
-Tìm hiểu và cài đặt MonoDB trên máy tính cục bộ.
+Tìm hiểu và cài đặt SQLServer trên Docker.
 
 <!--more-->
 ### Tải và cài đặt SQL server trên docker.
