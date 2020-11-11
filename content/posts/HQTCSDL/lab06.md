@@ -28,6 +28,9 @@ docker run -it -d --name mysql01 -v /data/mysql/mysql01:/var/lib/mysql -e MYSQL_
 
 
 Hướng dẫn các tham số:
+
+
+
 – “docker run“: câu lệnh để chạy 1 image và bắt đầu 1 container. Container là một process sử dụng 1 image là nội dung bên trong.
 – “-it“: tham số để cho phép thao tác về sau như can thiệp vào container để thực thi các câu lệnh hệ thống.
 – “-d“: tham số để nói sau khi thực hiện câu lệnh trên thì cho nó chạy background và con trỏ vẫn ở host hiện tại.
@@ -37,11 +40,13 @@ Hướng dẫn các tham số:
 – “mysql:latest“: tên image và tag phiên bản của image sẽ chạy.
 
 
+
 Truy cập vào MySQL container:
 
 ```
 docker exec -it mysql01 mysql -uroot -p
 ```
+
 
 
 ### 2. Kết nối với MySQL Workbench:
