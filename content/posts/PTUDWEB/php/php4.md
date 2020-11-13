@@ -145,8 +145,8 @@ Kết quả sau khi chuẩn hóa sẽ là 'Nguyen Van Teo'
     if(isset($_POST["first"]) && isset($_POST["last"])){
         $LastName = $_POST["last"];
         $FirstName = $_POST["first"];
-        $F = ucfirst(strtolower($LastName));
-        $L = ucfirst(strtolower($FirstName));
+        $F = chop(trim(ucfirst(strtolower($LastName))));
+        $L = chop(trim(ucfirst(strtolower($FirstName))));
         $result = "$L $F";
    }
 
