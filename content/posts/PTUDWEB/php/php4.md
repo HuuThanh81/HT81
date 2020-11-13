@@ -164,3 +164,27 @@ Kết quả sau khi chuẩn hóa sẽ là 'Nguyen Van Teo'
 </body>
 </html>
 ```
+
+
+### 3. Viết chương trình đọc số gồm ba chữ số.
+Ví dụ:
+100 > một trăm
+101 > một trăm linh một
+111 > một trăm mười một
+121 > một trăm hai mươi mốt
+105 > một trăm linh năm
+115 > một trăm mười lăm
+145 > một trăm bốn mươi lăm
+
+
+### 4. Viết chương trình đọc số gồm mười hai chữ số.
+Ví dụ:
+123 456 789 000 > một trăm hai mươi ba tỉ bốn trăm năm mươi sáu triệu bảy trăm tám mươi chín ngàn.
+
+
+### Demo
+
+>App source repl.it: https://repl.it/@HuuThanh81/Ex3-String#index.php
+
+
+{{< iframe src="https://Ex3-String.huuthanh81.repl.co/?lite=true" >}}
