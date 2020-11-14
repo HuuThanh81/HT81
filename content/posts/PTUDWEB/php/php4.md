@@ -11,7 +11,7 @@ resources:
 - name: "featured-image"
   src: "featured-image.png"
 
-tags: ["Question", "PHP", "Array"]
+tags: ["Question", "PHP", "String"]
 categories: ["PHP Programming - Basics"]
 
 lightgallery: true
