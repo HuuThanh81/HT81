@@ -80,6 +80,22 @@ Một số thuật ngữ sử dụng trong ngành công nghệ thông tin.
 | suggestions| | gợi ý |
 | improvement| |cải tiến |
 | independently| | độc lập |
+| glolalization| | toàn cầu hóa |
+| low - level processing| | xử lý thấp |
+| hight - level processing| | xử lý cao |
+| quantum computing| | tính toán lượng tử |
+| cyber - physical systems| | hệ thống thực tế ảo |
+| Imterlligent robotics| | robot thông minh |
+| artificial interlligent| | trí tuệ nhân tạo|
+| artificial Superinterlligent| | siêu trí tuệ nhân tạo |
+| app economy| | kinh doanh ứng dụng|
+| purpose - driven generation| | một thế hệ được thôi thúc bởi mục đích |
+| macking sustainable living com - menplace| |khiến cho những lối sống bền vững trở nên thông dụng |
+| declicated commitment| |sự gắn bó một cách tận tâm |
+| a vision larger than one's self| | tầm nhìn lớn hơn cả bản thân mình |
+| self - esteem| |giá trị bản thân |
+| | | |
+| | | |
 | | | |
 | | | |
 | | | |
